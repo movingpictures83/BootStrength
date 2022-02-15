@@ -1,0 +1,2 @@
+Prefix plugins/BootStrength/example
+Plugin BootStrength inputfile input.csv outputfile bootstrength.csv
