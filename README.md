@@ -1,0 +1,2 @@
+# BootStrength
+Bootstrap-based inference
